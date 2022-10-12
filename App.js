@@ -9,6 +9,9 @@ export default function App() {
     {
         STT: '1',
         name: 'C#',
+        
+        STT: '2',
+        name: 'Học Java',
     },
     ]);
 
